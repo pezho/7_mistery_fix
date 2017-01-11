@@ -1,6 +1,6 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Закомство с таким понятием как тестирование
 
 # Project Goals
 
