@@ -1,5 +1,4 @@
 from math import sqrt
-import sys
 
 
 def get_roots(a, b, c):
@@ -13,7 +12,3 @@ def get_roots(a, b, c):
     else:
         return root1, root2
     
-    
-if __name__ == '__main__':
-    print('First root is: "{}"\nSecond root is: "{}"'
-          .format(*get_roots(float(sys.argv[1]),float(sys.argv[2]),float(sys.argv[3]))))
